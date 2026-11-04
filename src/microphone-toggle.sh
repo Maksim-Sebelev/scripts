@@ -1,5 +1,3 @@
-#!/bin/bash
-
 set -eou pipefail
 
 if [ $# -ne 0 ]; then

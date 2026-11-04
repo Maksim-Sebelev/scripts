@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # this utility add argumenta (expected bridges (maybe gt 1)) in ~/secure/bridges/tmp.bridges as bridges
 
 if [ $# -eq 0 ]; then

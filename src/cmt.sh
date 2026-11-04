@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # how to use:
 # in cmake-build-directoruy call 'cmt'
 # its equal to call your build system with same targets

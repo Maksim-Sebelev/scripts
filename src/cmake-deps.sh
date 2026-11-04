@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # usage in cmake build directory: 'cmake-deps'
 # usage in project work directory: 'cmake-deps . build'
 # why Ninja for .cppm? - in begin of 2026 cmake  don`t support C++ modules for Unix Makefiles.

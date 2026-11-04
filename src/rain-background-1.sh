@@ -1,5 +1,3 @@
-#!/bin/bash
-
 function help
 {
   echo "Usage:"
